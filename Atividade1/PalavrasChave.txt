@@ -1,0 +1,50 @@
+timestamps:
+
+00 - 3:30: 
+1. Modelos de Processo de Software
+2. Atividades de Software
+3. Métodos Ágeis
+
+
+5:56>:
+1. Documentação Associada ao Software
+2. Funcionalidade e Desempenho / Atender Expectativa do Cliente
+3. Engenharia de software = Produção de Software
+4. Especificação, desenvolvimento, validação e evolução de software
+
+6:19>:
+1. Ciencia da Computação / Eng da Computação
+2. Eng de Sistemas
+3. Diminuição do Tempo
+4. Custos de Desenvolvimento/Testes
+
+8:46>:
+1. Processo de Software
+
+10:34:>
+1. Cascata
+2. Frameworks
+3. Incremental
+4. Orientado a reuso
+
+
+15:59>:
+1. Atividades do Processo
+2. Especificarm, Desenvolver, Validar e Evoluir
+3. Entradas de Projeto
+
+17:04>:
+1. Especificação de Requisitos
+
+18:15>:
+1. Atividades de Projeto
+2. Arquitetura do Sistema.
+3. Saídas de Projeto
+4. Especificação de BD/Interface/Componentes
+
+19:44>:
+1. Estágio de Testes
+2. 
+
+20:53>:
+1. Evolução do Sistema
